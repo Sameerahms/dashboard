@@ -1,6 +1,6 @@
 # React Dashboard
 
-React Admin Dashboard App With Theming, Tables, Charts, Calendar, and Kanban. 
+React Admin Dashboard App With Theming, Tables, Charts, Calendar, and Kanban using Syncfusion Components:. 
 
 Live Demo https://calm-alpaca-f2adbf.netlify.app/
 
